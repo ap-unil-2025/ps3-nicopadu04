@@ -1,7 +1,7 @@
 # Problem Set 3: Git & Python Fundamentals
 
 ## Student Information
-Name: YOUR_NAME_HERE
+Name: Nicolò Paduano
 Date: DATE_HERE
 
 ## Assignment Overview
